@@ -98,9 +98,11 @@ public class ListaDinamicaInsertion {
     public void insertionSort() {
         if (inicioVazio()) {
             System.out.println("A lista está vazia!");
+            return;
         }
         if (umElemento()) {
             System.out.println("A lista só tem um elemento!");
+            return;
         } else {
             No atual = inicio; //ponteiro que percorre a lista dinâmica
             No ordenado = null; //lista ordenada inicia vazia
