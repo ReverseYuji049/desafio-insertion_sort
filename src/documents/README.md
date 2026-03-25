@@ -183,16 +183,16 @@ public void insertionSort() {
 
 O programa inclui diversos cenários de teste:
 
-* ✔️ Lista comum
-* ✔️ Lista em ordem decrescente
-* ✔️ Lista vazia
-* ✔️ Lista com um elemento
-* ✔️ Lista já ordenada
-* ✔️ Lista desordenada
-* ✔️ Elementos repetidos
-* ✔️ Números negativos
-* ✔️ Todos os elementos iguais
-* ✔️ Dois elementos invertidos
+* - Lista comum
+* - Lista em ordem decrescente
+* - Lista vazia
+* - Lista com um elemento
+* - Lista já ordenada
+* - Lista desordenada
+* - Elementos repetidos
+* - Números negativos
+* - Todos os elementos iguais
+* - Dois elementos invertidos
 
 ---
 
